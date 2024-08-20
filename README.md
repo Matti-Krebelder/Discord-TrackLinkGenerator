@@ -3,6 +3,9 @@
 
 A Discord bot that allows users to create tracking links, retrieve data related to these links, and view their links in a dashboard. The bot features interactive buttons and modals for generating and managing tracking links, as well as accessing collected tracking data.
 
+## Commands
+!dashboard (to create a interactive dashboard.)
+
 
 
 ## Installation
