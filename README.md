@@ -1,1 +1,52 @@
+
 # Discord-TrackLinkGenerator
+
+A Discord bot that allows users to create tracking links, retrieve data related to these links, and view their links in a dashboard. The bot features interactive buttons and modals for generating and managing tracking links, as well as accessing collected tracking data.
+
+
+
+## Installation
+
+1. Download it or use:
+
+```bash
+  git clone https://github.com/Matti-Krebelder/Discord-TrackLinkGenerator.git
+```
+
+2. install requirements:
+
+```bash
+  pip install -r requirements.txt
+```
+3. Bot Token:
+
+Get Bot Token if you dont have one: [discord.dev](http://discord.dev)
+
+
+4. Edit config in bot.py:
+
+ 
+```bash
+  Change server_url = "http://127.0.0.1" with your server  URL
+```
+```bash
+  Change Bot_Token = "YOUR_BOT_TOKEN" with your Bot Token
+```
+```bash
+  Change Server_Port = "3004" with your Server Port
+```
+
+
+5. Start Discord Bot:
+
+```bash
+  python bot.py
+```
+
+
+
+
+## Screenshots
+
+![App Screenshot](http://skynethub.net/bot1.png)
+
