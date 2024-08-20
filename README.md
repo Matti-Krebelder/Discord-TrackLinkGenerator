@@ -47,6 +47,20 @@ Get Bot Token if you dont have one: [discord.dev](http://discord.dev)
 
 
 ## Screenshots
-
+The dashboard:
 ![App Screenshot](http://skynethub.net/bot1.png)
+Example Track Data:
+![App Screenshot](http://skynethub.net/6.png)
+Generate Tracking Link Form:
+![App Screenshot](http://skynethub.net/bot2.png)
+Generated Tracking Link:
+![App Screenshot](http://skynethub.net/bot3.png)
+Your links Page:
+![App Screenshot](http://skynethub.net/bot4.png)
+Fetch Track Data Form:
+![App Screenshot](http://skynethub.net/5.png)
+
+
+
+
 
