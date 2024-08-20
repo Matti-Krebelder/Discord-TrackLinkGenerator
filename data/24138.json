@@ -1,0 +1,30 @@
+{
+    "track_id": "24138",
+    "redirect_url": "https://google.de",
+    "victims": [
+        {
+            "victim_id": 1,
+            "redirect_url": "https://google.de",
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+            "location": {
+                "city": null,
+                "region": null,
+                "country": null,
+                "loc": null
+            }
+        },
+        {
+            "victim_id": 2,
+            "redirect_url": "https://google.de",
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+            "location": {
+                "city": null,
+                "region": null,
+                "country": null,
+                "loc": null
+            }
+        }
+    ]
+}
